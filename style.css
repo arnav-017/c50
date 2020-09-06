@@ -1,0 +1,37 @@
+h1{
+    color:brown
+}
+
+
+.header{
+    background-color: rgb(191, 191, 226);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.grid{
+    background-color: lawngreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: orange;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+
+}
+
+.text{
+    background-color: rgb(191, 191, 226);
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content: center;
+}
